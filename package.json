@@ -1,0 +1,17 @@
+{
+  "name": "flip-profile",
+  "version": "1.0.0",
+  "description": "3D hover actived image",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "3D",
+    "flip",
+    "rotate",
+    "hover effect"
+  ],
+  "author": "EDET DESTINY{Cadiza}",
+  "license": "ISC"
+}
